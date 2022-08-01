@@ -1,6 +1,6 @@
 <h1>FileDonut<h1>
 <h3>This project uses webtorrent to share files peer to peer in the browser.</h3>
-* Cooked up by [Jeel Tikiwala](https://github.com/jeeltikiwala)
+* Baked up by Jeel Tikiwala (https://github.com/jeeltikiwala)
 * No server, it uses webtorrent trackers.
 * Multyple files allowed.
 * Upto 1Tb storage without server.
